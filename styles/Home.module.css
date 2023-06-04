@@ -4,6 +4,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
+  
 }
 
 .header {
@@ -25,9 +26,9 @@
   padding: 1rem 2rem 1rem 2rem;
   width: 75vw;
   border-radius: 0.5rem;
-  border: 1px solid #d9d9e3;
+  border: 1px solid #040c18;
   background: #ffffff;
-  color: #000;
+  color: #040c18;
   outline: none;
 }
 
